@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentos.operadores;
 
 public class OperadoresAritmeticos {
     public static void main(String[] args) {
